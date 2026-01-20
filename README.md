@@ -58,9 +58,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 Below are some screenshots of the application showcasing its main features:
 
-| | |
-|:---:|:---:|
-| **Dashboard** <br> <img src="screenshots/dashboard.png" width="250"> | **Menu & Navigation** <br> <img src="screenshots/menu.png" width="250"> |
-| **Tour Packages** <br> <img src="screenshots/packagescreen.png" width="250"> | **Package Details** <br> <img src="screenshots/hongislandpackage.png" width="250"> |
-| **Book a Tour** <br> <img src="screenshots/booktour.png" width="250"> | **Payment Screen** <br> <img src="screenshots/payment.png" width="250"> |
-| **Coupons & Discounts** <br> <img src="screenshots/coupon.png" width="250"> | **Rate & Reviews** <br> <img src="screenshots/rate.png" width="250"> |
+| | | |
+|:---:|:---:|:---:|
+| **Dashboard** <br><br> <img src="screenshots/dashboard.png" width="210"> | **Menu & Navigation** <br><br> <img src="screenshots/menu.png" width="210"> | **Tour Packages** <br><br> <img src="screenshots/packagescreen.png" width="210"> |
+| | | |
+| **Package Details** <br><br> <img src="screenshots/hongislandpackage.png" width="210"> | **Book a Tour** <br><br> <img src="screenshots/booktour.png" width="210"> | **Payment Screen** <br><br> <img src="screenshots/payment.png" width="210"> |
+| | | |
+| **Coupons & Discounts** <br><br> <img src="screenshots/coupon.png" width="210"> | **Rate & Reviews** <br><br> <img src="screenshots/rate.png" width="210"> | |
