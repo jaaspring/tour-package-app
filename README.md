@@ -58,34 +58,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 Below are some screenshots of the application showcasing its main features:
 
-### 1. Dashboard
-The main dashboard where users can see an overview of their activities and available options.
-![Dashboard](screenshots/dashboard.png)
-
-### 2. Menu & Navigation
-Simple and intuitive menu for easy navigation across different sections of the app.
-![Menu](screenshots/menu.png)
-
-### 3. Tour Packages
-Browse a wide variety of tour packages with detailed information.
-![Package Screen](screenshots/packagescreen.png)
-
-### 4. Package Details (e.g., Hong Island)
-Detailed view of a specific tour package, including itinerary and pricing.
-![Hong Island Package](screenshots/hongislandpackage.png)
-
-### 5. Book a Tour
-Easy-to-use booking form to secure your spot on a tour.
-![Book Tour](screenshots/booktour.png)
-
-### 6. Payment Screen
-Secure and straightforward payment process for tour bookings.
-![Payment](screenshots/payment.png)
-
-### 7. Coupons & Discounts
-Manage and apply coupons to get the best deals on your trips.
-![Coupon](screenshots/coupon.png)
-
-### 8. Rate & Reviews
-Users can provide feedback and rate their experiences.
-![Rate](screenshots/rate.png)
+| | |
+|:---:|:---:|
+| **Dashboard** <br> ![Dashboard](screenshots/dashboard.png) | **Menu & Navigation** <br> ![Menu](screenshots/menu.png) |
+| **Tour Packages** <br> ![Package Screen](screenshots/packagescreen.png) | **Package Details** <br> ![Hong Island Package](screenshots/hongislandpackage.png) |
+| **Book a Tour** <br> ![Book Tour](screenshots/booktour.png) | **Payment Screen** <br> ![Payment](screenshots/payment.png) |
+| **Coupons & Discounts** <br> ![Coupon](screenshots/coupon.png) | **Rate & Reviews** <br> ![Rate](screenshots/rate.png) |
