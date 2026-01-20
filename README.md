@@ -60,7 +60,7 @@ Below are some screenshots of the application showcasing its main features:
 
 | | |
 |:---:|:---:|
-| **Dashboard** <br> ![Dashboard](screenshots/dashboard.png) | **Menu & Navigation** <br> ![Menu](screenshots/menu.png) |
-| **Tour Packages** <br> ![Package Screen](screenshots/packagescreen.png) | **Package Details** <br> ![Hong Island Package](screenshots/hongislandpackage.png) |
-| **Book a Tour** <br> ![Book Tour](screenshots/booktour.png) | **Payment Screen** <br> ![Payment](screenshots/payment.png) |
-| **Coupons & Discounts** <br> ![Coupon](screenshots/coupon.png) | **Rate & Reviews** <br> ![Rate](screenshots/rate.png) |
+| **Dashboard** <br> <img src="screenshots/dashboard.png" width="250"> | **Menu & Navigation** <br> <img src="screenshots/menu.png" width="250"> |
+| **Tour Packages** <br> <img src="screenshots/packagescreen.png" width="250"> | **Package Details** <br> <img src="screenshots/hongislandpackage.png" width="250"> |
+| **Book a Tour** <br> <img src="screenshots/booktour.png" width="250"> | **Payment Screen** <br> <img src="screenshots/payment.png" width="250"> |
+| **Coupons & Discounts** <br> <img src="screenshots/coupon.png" width="250"> | **Rate & Reviews** <br> <img src="screenshots/rate.png" width="250"> |
